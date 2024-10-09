@@ -1,0 +1,1 @@
+Fault tree and Event tree implementation for the paper "Quantitative Risk Assessment and Risk Control Measure Definition of a Periodically Unattended Bridge"
